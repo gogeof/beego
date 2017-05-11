@@ -60,3 +60,5 @@ Please see [Documentation](http://beego.me/docs) for more.
 
 beego source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Continue Dev by Gogeof
