@@ -31,6 +31,7 @@ install:
   - go get github.com/siddontang/ledisdb/config
   - go get github.com/siddontang/ledisdb/ledis
   - go get github.com/ssdb/gossdb/ssdb
+  - go get github.com/astaxie/beego
 before_script:
   - psql --version
   - ip addr
